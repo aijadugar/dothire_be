@@ -20,6 +20,7 @@ cymem @ file:///D:/bld/cymem_1737125890651/work
 Django @ file:///home/conda/feedstock_root/build_artifacts/django_1741283895821/work
 django-cors-headers==4.7.0
 djangorestframework==3.15.2
+dotenv==0.9.9
 en_core_web_sm @ https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.8.0/en_core_web_sm-3.8.0-py3-none-any.whl#sha256=1932429db727d4bff3deed6b34cfc05df17794f4a52eeb26cf8928f7c1a0fb85
 Flask @ file:///home/conda/feedstock_root/build_artifacts/flask_1741793020411/work
 fonttools==4.56.0
@@ -58,6 +59,7 @@ pyparsing==3.2.3
 PySocks @ file:///D:/bld/pysocks_1733217287171/work
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
 python-docx==1.1.2
+python-dotenv==1.1.0
 pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
 requests @ file:///home/conda/feedstock_root/build_artifacts/requests_1733217035951/work
 rich @ file:///home/conda/feedstock_root/build_artifacts/rich_1733342254348/work/dist
